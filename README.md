@@ -3,7 +3,7 @@
 * git init
 * git status
 * git add test.txt / git add --all
-* git commit -m "提交
+* git commit -m "提交"
 * git remote add origin https://github.com/...
 * git push -u origin master
 * git push --force origin main:main
