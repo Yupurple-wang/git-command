@@ -1,4 +1,4 @@
-# git-command
+# github-command
 * https://blog.csdn.net/weixin_42203070/article/details/98584780
 * git init
 * git status
